@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900" height="280"/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" height="320"/>
 </div>
 
 ## 🎭 About Me - The Code Behind the Coder
@@ -127,10 +127,6 @@ print(me.get_life_philosophy())
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" height="300"/>
-</div>
-
-<div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/tinilkbenny)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000)](https://www.instagram.com/t_nil._?igsh=OXpqc21mNzQyN24y)
@@ -142,7 +138,11 @@ print(me.get_life_philosophy())
 ## 🎨 Fun Facts & Random Tidbits
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&weight=600&size=20&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=true&width=800&height=200&lines=💡+I+turn+caffeine+into+code+and+dreams+into+reality;🎵+My+code+compiles+better+with+good+music;🔮+Future+goal%3A+Creating+AI+that+understands+human+emotions;☕+Coffee+is+not+just+fuel%2C+it's+inspiration;🌟+Every+bug+is+just+a+feature+waiting+to+be+discovered;🚀+Building+tomorrow's+technology%2C+one+line+at+a+time" alt="Fun Facts" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" height="300"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&weight=600&size=20&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=true&width=800&height=200&lines=💡+I+turn+caffeine+into+code+and+dreams+into+reality;🎵+My+code+compiles+better+with+good+music;🔮+Future+goal%3A+Creating+AI+that+understands+human+emotions;☕+Coffee+is+not+just+fuel%2C+it's+inspiration;🌟+Every+bug+is+just+a+feature+waiting+to+be+discovered;🚀+Building+tomorrow's+technology%2C+one+line+at+a+time;🤖+Teaching+machines+to+think%2C+learning+to+think+like+machines" alt="Fun Facts" />
 </div>
 
 ## 📈 Profile Visitors & Engagement
