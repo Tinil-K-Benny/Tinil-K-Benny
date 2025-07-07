@@ -65,7 +65,7 @@ print(me.get_skills())
 
 <div align="center">
   
-  [![EchoID- Speaker Recognition](https://github-readme-stats.vercel.app/api/pin/?username=TinilKBenny&repo=EchoID
+  [![EchoID- Speaker Recognition](https://github-readme-stats.vercel.app/api/pin/?username=Tinil-K-Benny&repo=EchoID
 &theme=tokyonight&border_color=00D9FF)](https://github.com/Tinil-K-Benny/EchoID)
 
 </div>
@@ -73,16 +73,16 @@ print(me.get_skills())
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TinilKBenny&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00D9FF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TinilKBenny&layout=compact&langs_count=8&theme=tokyonight&border_color=00D9FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tinil-K-Benny&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00D9FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tinil-K-Benny&layout=compact&langs_count=8&theme=tokyonight&border_color=00D9FF"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TinilKBenny&theme=tokyonight&border=00D9FF" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tinil-K-Benny&theme=tokyonight&border=00D9FF" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TinilKBenny&bg_color=1a1b27&color=00D9FF&line=00D9FF&point=ff6b6b&area=true&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tinil-K-Benny&bg_color=1a1b27&color=00D9FF&line=00D9FF&point=ff6b6b&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
 ## 🌐 Connect with Me
@@ -105,7 +105,7 @@ print(me.get_skills())
 ## 📈 Profile Views
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TinilKBenny&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Tinil-K-Benny&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
 </div>
 
 <div align="center">
