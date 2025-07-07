@@ -135,16 +135,6 @@ print(me.get_life_philosophy())
   
 </div>
 
-## 🎨 Fun Facts & Random Tidbits
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" height="300"/>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&weight=600&size=20&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=true&width=800&height=200&lines=💡+I+turn+caffeine+into+code+and+dreams+into+reality;🎵+My+code+compiles+better+with+good+music;🔮+Future+goal%3A+Creating+AI+that+understands+human+emotions;☕+Coffee+is+not+just+fuel%2C+it's+inspiration;🌟+Every+bug+is+just+a+feature+waiting+to+be+discovered;🚀+Building+tomorrow's+technology%2C+one+line+at+a+time;🤖+Teaching+machines+to+think%2C+learning+to+think+like+machines" alt="Fun Facts" />
-</div>
-
 ## 📈 Profile Visitors & Engagement
 
 <div align="center">
