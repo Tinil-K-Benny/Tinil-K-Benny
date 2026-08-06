@@ -1,156 +1,91 @@
-# 🌟 Welcome to My Digital Universe! I'm Tinil K Benny
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=300&section=header&text=Tinil%20K%20Benny&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Software%20Engineer%20|%20BTech%20Student%20|%20AI/ML%20Enthusiast&descAlignY=55&descSize=18" />
+
+# Hi, I'm Tinil K Benny 👋
+
+**Software Engineering Student · Building with Python, ML & Full-Stack Tools**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tinilkbenny)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tinilbenn@gmail.com)
+
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=🚀+BUILDING+THE+FUTURE;🤖+AI+%26+ML+EXPLORER;🎯+PROBLEM+SOLVER;💡+INNOVATION+DRIVEN" alt="Dynamic Typing" />
-</div>
+---
+
+## About Me
+
+I'm a BTech student who enjoys turning ideas into working software — from ML-driven prediction systems to practical automation tools. My work spans **AI/ML, backend APIs, and applied engineering projects**, often built around real-world problems rather than toy examples.
+
+- 🔭 Currently building **LiveFoot**, a full-stack football match prediction platform
+- 🌱 Exploring machine learning, speaker recognition, and API-driven systems
+- ⚙️ Comfortable across Python, Java, and web technologies (React, Flask/FastAPI)
+- 🎯 I prefer practical, directly usable implementations over overly abstract ones
+
+---
+
+## Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+## Featured Projects
+
+### 🏆 [LiveFoot](https://github.com/Tinil-K-Benny/LiveFoot)
+Live football match prediction system featuring an automated data ingestion worker, a Scikit-Learn gradient boosting model, a Flask API, and a React frontend.
+`Python` · `Scikit-Learn` · `Flask` · `React`
+
+### 🎤 [EchoID](https://github.com/Tinil-K-Benny/EchoID)
+A smart speaker recognition system using Resemblyzer, with continual learning, speaker profile memory, and real-time voice comparison — including cosine similarity scoring and duplicate prevention.
+`Python` · `Resemblyzer` · `ML`
+
+### 🧑‍💻 [YouHadToBeThere](https://github.com/Tinil-K-Benny/YouHadToBeThere---spoof-proof-attendance-using-face-recognition-and-geolocation)
+A spoof-proof attendance system combining face recognition with geolocation verification.
+`Python` · `MongoDB` · `FastAPI` · `Streamlit`
+
+### 🤖 [Nova_v1_beta](https://github.com/Tinil-K-Benny/Nova_v1_beta)
+An AI-based personal assistant designed to handle basic on-device tasks. *(Actively in development)*
+`Python`
+
+### 🎛️ [mic-energy-calibrator](https://github.com/Tinil-K-Benny/mic-energy-calibrator)
+A lightweight microphone RMS energy calibration tool for speech and audio processing pipelines.
+`Python`
+
+### 🐕 [MisFit](https://github.com/Tinil-K-Benny/MisFit)
+A stray dog attack prevention system.
+`Java`
+
+### 🥫 [Community-Fridge](https://github.com/Tinil-K-Benny/Community-Fridge)
+A standalone desktop application built with Java Swing to automate and centralize community fridge management.
+`Java`
+
+### 🔊 [Os-Automation](https://github.com/Tinil-K-Benny/Os-Automation)
+A Python automation tool that opens and closes applications or websites based on voice prompts.
+`Python`
+
+---
+
+## GitHub Stats
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" height="320"/>
-</div>
 
-## 🎭 About Me - The Code Behind the Coder
+![Tinil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tinil-K-Benny&show_icons=true&theme=default&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tinil-K-Benny&layout=compact&theme=default)
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=600&height=80&lines=class+Developer(Human)%3A;++++def+__init__(self)%3A" alt="Code Animation" />
-</div>
-
-```python
-class TinilKBenny:
-    def __init__(self):
-        self.name = "Tinil K Benny"
-        self.role = "Aspiring Software Engineer"
-        self.education = "BTech Student"
-        self.current_focus = ["Machine Learning", "AI", "API Integration"]
-        self.location = "India 🇮🇳"
-        self.passion = "Building AI that understands emotions"
-        
-    def get_skills(self):
-        return {
-            "languages": ["Python 🐍", "C ⚡", "Java ☕", "JavaScript 🌟"],
-            "web": ["HTML 🌐", "CSS 🎨"],
-            "interests": ["AI/ML 🤖", "Speaker Recognition 🎤", "Personal Assistants 🤖"],
-            "currently_learning": ["Advanced Python", "ML Algorithms", "API Integration"],
-            "superpowers": ["Coffee-to-Code Conversion", "Bug Debugging", "Problem Solving"]
-        }
-        
-    def get_current_projects(self):
-        return [
-            "🎤 EchoID - Speaker Recognition System",
-            "🤖 Personal Assistant using Python",
-            "📚 Exploring ML/AI APIs",
-            "🔮 Future: AI that understands emotions"
-        ]
-
-    def get_life_philosophy(self):
-        return "Code with passion, learn with curiosity, build with purpose! 🚀"
-
-me = TinilKBenny()
-print(me.get_life_philosophy())
-```
-
-## 🛠️ Tech Arsenal & Digital Toolkit
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=500&color=00FF87&center=true&vCenter=true&multiline=true&width=600&height=80&lines=⚡+MASTERING+THE+FUNDAMENTALS;🔥+EXPLORING+NEW+HORIZONS" alt="Tech Focus" />
-</div>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,java,js,html,css,git,github,vscode,linux&theme=dark" alt="Tech Stack" />
-</div>
-
-<div align="center">
-  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
-  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=000000)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=000000)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000)
-  
-</div>
-
-## 🔥 Current Mission & Focus Areas
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="600" height="300"/>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=2500&pause=700&color=FF6B6B&center=true&vCenter=true&multiline=true&width=900&height=140&lines=🎯+MASTERING+MACHINE+LEARNING+ALGORITHMS;🔍+DIVING+DEEP+INTO+AI+API+INTEGRATION;🎤+CRAFTING+SPEAKER+RECOGNITION+SYSTEMS;🤖+DEVELOPING+INTELLIGENT+PERSONAL+ASSISTANTS;🌟+BUILDING+TOMORROW'S+TECHNOLOGY+TODAY" alt="Current Focus" />
-</div>
-
-## 🎯 Featured Projects & Creations
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=500&height=50&lines=🚀+PROJECTS+THAT+MATTER" alt="Projects Header" />
-</div>
-
-<div align="center">
-  
-  [![EchoID - Speaker Recognition](https://github-readme-stats.vercel.app/api/pin/?username=Tinil-K-Benny&repo=EchoID&theme=tokyonight&border_color=00D9FF&title_color=FF6B6B&icon_color=FFD700)](https://github.com/Tinil-K-Benny/EchoID)
-  
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100"/>
-</div>
-
-## 📊 GitHub Analytics & Performance
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=400&height=50&lines=📈+CODING+STATISTICS" alt="Stats Header" />
-</div>
-
-<div align="center">
-  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=Tinil-K-Benny&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00D9FF&title_color=FF6B6B&icon_color=FFD700&text_color=FFFFFF&bg_color=0D1117"/>
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tinil-K-Benny&layout=compact&langs_count=8&theme=tokyonight&border_color=00D9FF&title_color=FF6B6B&text_color=FFFFFF&bg_color=0D1117"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tinil-K-Benny&theme=tokyonight&border=00D9FF&stroke=FF6B6B&ring=FFD700&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tinil-K-Benny&bg_color=0D1117&color=00D9FF&line=FF6B6B&point=FFD700&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="Activity Graph"/>
-</div>
-
-## 🌐 Connect & Collaborate
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=20&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=500&height=50&lines=🤝+LET'S+BUILD+TOGETHER!" alt="Connect Header" />
-</div>
-
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/tinilkbenny)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000)](https://www.instagram.com/t_nil._?igsh=OXpqc21mNzQyN24y)
-  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000)](https://discordapp.com/users/FrostDKing)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:tinilbenn@gmail.com)
-  
-</div>
-
-## 📈 Profile Visitors & Engagement
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tinil-K-Benny&color=FF6B6B&style=for-the-badge&label=PROFILE+VISITORS" alt="Profile Views"/>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" height="280"/>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=25&fontColor=fff&animation=twinkling&fontAlignY=65" />
-</div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=50&lines=⭐️+From+Tinil+K+Benny+-+Let's+build+the+future+together!+🚀" alt="Footer" />
+📫 Reach me at **tinilbenn@gmail.com** or connect on [LinkedIn](https://www.linkedin.com/in/tinilkbenny)
+
 </div>
