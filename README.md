@@ -21,7 +21,7 @@ I build ML pipelines, APIs, and practical tools I actually use. Outside of code,
 
 | | |
 |---|---|
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-1B7A43?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-1B7A43?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-1B7A43?style=flat-square&logo=javascript&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-1B7A43?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-1B7A43?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-1B7A43?style=flat-square&logo=javascript&logoColor=white) ![C#](https://img.shields.io/badge/-C#-1B7A43?style=flat-square&logo=C#&logoColor=white) |
 | **Backend & APIs** | ![Flask](https://img.shields.io/badge/-Flask-1B7A43?style=flat-square&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-1B7A43?style=flat-square&logo=fastapi&logoColor=white) |
 | **Frontend** | ![React](https://img.shields.io/badge/-React-1B7A43?style=flat-square&logo=react&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-1B7A43?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1B7A43?style=flat-square&logo=css3&logoColor=white) |
 | **ML & Data** | ![scikit-learn](https://img.shields.io/badge/-scikit--learn-1B7A43?style=flat-square&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-1B7A43?style=flat-square&logo=numpy&logoColor=white) |
